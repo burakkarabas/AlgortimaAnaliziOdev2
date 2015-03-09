@@ -1,0 +1,17 @@
+BUBBLE SORT
+
+N            SWAP      COMPARATION
+10            15           45
+20            88           190
+50            515          1225
+100           2599         4950
+500           64783	   124750
+
+SELECTION SORT
+
+N            SWAP      COMPARATION
+10            5            45
+20            12           190
+50            49           1225
+100           92           4950
+500           495	   124750    
